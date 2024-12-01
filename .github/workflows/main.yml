@@ -1,24 +1,29 @@
 name: generate animation
 
 on:
-  schedule:
-    - cron: "0 */12 * * *" 
-  workflow_dispatch:
+  # Trigger automatically on every push to the main branch
   push:
     branches:
       - main
-
+  
+  # Trigger automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *" 
+  
+  # Manually trigger the workflow (for testing or on-demand runs)
+  workflow_dispatch:
+  
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 30  # increased timeout for long-running actions
+    timeout-minutes: 30  # Increased timeout for long-running actions
 
     steps:
       # Generates the snake animation from the GitHub contributions graph
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}  # Make sure this is correct
+          github_user_name: ${{ github.repository_owner }}  # Ensure this is correct
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
