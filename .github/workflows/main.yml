@@ -29,11 +29,11 @@ jobs:
       - name: Check dist directory contents
         run: ls -l dist
 
-      # Push the SVG file to the 'output' branch
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # Push the SVG file to the 'main' branch
+      - name: push github-contribution-grid-snake.svg to the main branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output  # Make sure this branch exists
+          target_branch: main  # Push to the main branch
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
