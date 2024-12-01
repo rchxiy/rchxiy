@@ -7,13 +7,6 @@
   I'm passionate about <strong>blockchain technology</strong> and the <strong>decentralized web</strong>.
 </p>
 
-<div style="margin-top: 30px;">
-  <a href="https://t.me/litbrother" style="display: inline-block; padding: 12px 25px; background-color: #0088cc; color: white; text-decoration: none; border-radius: 30px; font-size: 1.2em; font-family: 'Segoe UI', sans-serif; transition: background-color 0.3s ease, transform 0.3s ease; box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width: 22px; margin-right: 10px; vertical-align: middle;"/>
-    Connect with me on Telegram
-  </a>
-</div>
-
 <h2 style="font-size: 2em; color: #333; font-family: 'Segoe UI', sans-serif; margin-top: 40px;">🚀 About Me</h2>
 <p style="font-size: 1.1em; color: #333; font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px;">
   <strong>🔭</strong> Creator of a Web3 bot.<br>
