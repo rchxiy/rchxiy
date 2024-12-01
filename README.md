@@ -1,5 +1,6 @@
+<div align="center">
 ![ICHINUR](https://github.com/ichinur/ichinur/blob/main/github-header.png)
-
+</div>
 
 The creator of a **Web3 Bot** that helps automate and streamline tasks in the Web3 ecosystem. I’m passionate about blockchain technology and the decentralized web.
 
