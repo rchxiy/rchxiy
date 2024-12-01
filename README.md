@@ -1,8 +1,9 @@
-<div align="center">
-![ICHINUR](https://github.com/ichinur/ichinur/blob/main/github-header.png)
-</div>
+<h1 align="center">Hi, I'm Ichinur 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ichinur.ichinur&left_color=royalblue&right_color=black" />
 
-The creator of a **Web3 Bot** that helps automate and streamline tasks in the Web3 ecosystem. I’m passionate about blockchain technology and the decentralized web.
+
+<h3> The creator of a **Web3 Bot** that helps automate and streamline tasks in the Web3 ecosystem. </h3>
+<h3> I’m passionate about blockchain technology and the decentralized web. </h3>
 
 ## 🚀 About Me
 - 🔭 I’m the creator of a bot designed specifically for Web3.
