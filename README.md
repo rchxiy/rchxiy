@@ -7,31 +7,25 @@
   I'm passionate about <strong>blockchain technology</strong> and the <strong>decentralized web</strong>.
 </p>
 
-<h2 style="font-size: 2em; color: #333; font-family: 'Segoe UI', sans-serif; margin-top: 40px;">🚀 About Me</h2>
-<p style="font-size: 1.1em; color: #333; font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px;">
-  <strong>🔭</strong> Creator of a Web3 bot.<br>
-  <strong>🌱</strong> Learning about <strong>blockchain</strong>, <strong>DeFi</strong>, and <strong>smart contracts</strong>.<br>
-  <strong>💬</strong> Ask me about Web3, smart contracts, or bots!<br>
-  <strong>📫</strong> Reach out via <a href="https://t.me/litbrother" style="color: #4c6ef5; text-decoration: none;">Telegram</a>.
-</p>
+# 💫 About Me:
+🔭 Creator of a Web3 bot.<br>🌱 Learning about blockchain, DeFi, and smart contracts.<br>💬 Ask me about Web3, smart contracts, or bots!<br>📫 Reach out via Telegram.
 
-<h2 style="font-size: 2em; color: #333; font-family: 'Segoe UI', sans-serif; margin-top: 40px;">🛠️ Skills & Technologies</h2>
-<p style="font-size: 1.2em; color: #333; font-family: 'Segoe UI', sans-serif; line-height: 1.6; max-width: 800px;">
-  💻 JavaScript, Solidity, Python<br>
-  🔗 Ethereum, Web3.js, Solidity, IPFS<br>
-  📊 Hardhat, Truffle, Git, Docker
-</p>
 
-<h2 style="font-size: 2em; color: #333; font-family: 'Segoe UI', sans-serif; margin-top: 40px;">📈 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ichinur&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="Ichinur's GitHub Stats" width="60%" style="border-radius: 10px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);"/>
-</p>
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ichinur&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ichinur&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ichinur&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<h2 style="font-size: 2em; color: #333; font-family: 'Segoe UI', sans-serif; margin-top: 40px;">🔗 Connect with Me</h2>
-<div>
-  <!-- Elegant Telegram Image Button -->
-  <a href="https://t.me/litbrother" style="text-decoration: none; display: inline-block; margin-top: 20px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" style="width: 50px; height: 50px; border-radius: 8px; box-shadow: 0 6px 15px rgba(0, 0, 0, 0.2); transition: transform 0.3s ease, box-shadow 0.3s ease;">
-  </a>
-</div>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ichinur&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=ichinur&icon=0&color=0)](https://visitcount.itsvg.in)
+
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://saweria.co/litbrother) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/ichinurahman) 
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
