@@ -8,7 +8,7 @@
 </p>
 
 # 💫 About Me:
-🔭 Creator of a Web3 bot.<br>🌱 Learning about blockchain, DeFi, and smart contracts.<br>💬 Ask me about Web3, smart contracts, or bots!<br>📫 Reach out via Telegram.
+🔭 Creator of a Web3 bot.<br>🌱 Learning about blockchain, DeFi, and smart contracts.<br>💬 Ask me about Web3, smart contracts, or bots!<br>📫 Reach out via [Telegram](https://t.me/litbrother).
 
 
 # 💻 Tech Stack:
